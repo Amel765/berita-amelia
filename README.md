@@ -1,2 +1,2 @@
 # berita-amalia
-test
+test 1
